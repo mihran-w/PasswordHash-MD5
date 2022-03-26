@@ -1,0 +1,16 @@
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\bin\Debug\net5.0\Encoded Class.exe
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\bin\Debug\net5.0\Encoded Class.deps.json
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\bin\Debug\net5.0\Encoded Class.runtimeconfig.json
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\bin\Debug\net5.0\Encoded Class.runtimeconfig.dev.json
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\bin\Debug\net5.0\Encoded Class.dll
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\bin\Debug\net5.0\ref\Encoded Class.dll
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\bin\Debug\net5.0\Encoded Class.pdb
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class.csproj.AssemblyReference.cache
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class.AssemblyInfoInputs.cache
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class.AssemblyInfo.cs
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class.csproj.CoreCompileInputs.cache
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class.dll
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\ref\Encoded Class.dll
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class.pdb
+D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class.genruntimeconfig.cache

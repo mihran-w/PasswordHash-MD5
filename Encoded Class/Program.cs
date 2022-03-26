@@ -11,10 +11,17 @@ namespace Encoded_Class
 
             while (isActive == true)
             {
-                Console.WriteLine("Enter Password For Hashing :");
+                Console.Write("Enter Password For Hashing : ");
+                Console.ForegroundColor = ConsoleColor.Green;
                 string Password = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.White;
                 string PasswordHash = Password.EncodeToMd5();
-                Console.WriteLine(PasswordHash);
+                Console.WriteLine("==========================================================");
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Result : " + PasswordHash);
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("==========================================================");
+
             }
 
             //Console.ReadKey();

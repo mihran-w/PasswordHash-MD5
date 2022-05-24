@@ -21,10 +21,10 @@ namespace Encoded_Class
                 Console.WriteLine("Result : " + PasswordHash);
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("==========================================================");
-
             }
 
-            //Console.ReadKey();
+            // site MD5 : 81dc9bdb52d04dc20036dbd8313ed055
+            // this MD5 : 81-DC-9B-DB-52-D0-4D-C2-00-36-DB-D8-31-3E-D0-55
 
         }
     }

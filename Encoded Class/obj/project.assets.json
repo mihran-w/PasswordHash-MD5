@@ -8,28 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mihra\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\d\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web Tools\\C# Class\\Encoded Class\\Encoded Class\\Encoded Class.csproj",
+      "projectUniqueName": "C:\\Users\\d\\Desktop\\Projcts\\PasswordHash-MD5\\Encoded Class\\Encoded Class.csproj",
       "projectName": "Encoded Class",
-      "projectPath": "D:\\Web Tools\\C# Class\\Encoded Class\\Encoded Class\\Encoded Class.csproj",
-      "packagesPath": "C:\\Users\\mihra\\.nuget\\packages\\",
-      "outputPath": "D:\\Web Tools\\C# Class\\Encoded Class\\Encoded Class\\obj\\",
+      "projectPath": "C:\\Users\\d\\Desktop\\Projcts\\PasswordHash-MD5\\Encoded Class\\Encoded Class.csproj",
+      "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\d\\Desktop\\Projcts\\PasswordHash-MD5\\Encoded Class\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mihra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -68,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

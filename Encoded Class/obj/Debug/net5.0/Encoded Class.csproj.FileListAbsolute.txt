@@ -14,3 +14,19 @@ D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class
 D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\ref\Encoded Class.dll
 D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class.pdb
 D:\Web Tools\C# Class\Encoded Class\Encoded Class\obj\Debug\net5.0\Encoded Class.genruntimeconfig.cache
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\bin\Debug\net5.0\Encoded Class.exe
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\bin\Debug\net5.0\Encoded Class.deps.json
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\bin\Debug\net5.0\Encoded Class.runtimeconfig.json
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\bin\Debug\net5.0\Encoded Class.runtimeconfig.dev.json
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\bin\Debug\net5.0\Encoded Class.dll
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\bin\Debug\net5.0\Encoded Class.pdb
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\obj\Debug\net5.0\Encoded Class.csproj.AssemblyReference.cache
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\obj\Debug\net5.0\Encoded Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\obj\Debug\net5.0\Encoded Class.AssemblyInfoInputs.cache
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\obj\Debug\net5.0\Encoded Class.AssemblyInfo.cs
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\obj\Debug\net5.0\Encoded Class.csproj.CoreCompileInputs.cache
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\obj\Debug\net5.0\Encoded Class.dll
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\obj\Debug\net5.0\refint\Encoded Class.dll
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\obj\Debug\net5.0\Encoded Class.pdb
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\obj\Debug\net5.0\Encoded Class.genruntimeconfig.cache
+C:\Users\d\Desktop\Projcts\PasswordHash-MD5\Encoded Class\obj\Debug\net5.0\ref\Encoded Class.dll
